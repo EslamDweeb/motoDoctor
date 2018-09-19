@@ -1,0 +1,51 @@
+
+/* Class = "UITextField"; placeholder = "كلمة المرور"; ObjectID = "1Nz-Ro-3UP"; */
+"1Nz-Ro-3UP.placeholder" = "كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "دخول"; ObjectID = "4h7-d3-LnD"; */
+"4h7-d3-LnD.normalTitle" = "دخول";
+
+/* Class = "UITextField"; placeholder = "رقم الهاتف"; ObjectID = "HQu-BT-2Ei"; */
+"HQu-BT-2Ei.placeholder" = "رقم الهاتف";
+
+/* Class = "UITextField"; placeholder = "نوع الحساب"; ObjectID = "Kha-Jz-708"; */
+"Kha-Jz-708.placeholder" = "نوع الحساب";
+
+/* Class = "UIButton"; normalTitle = "ليس لديك حساب؟ انشاء حساب"; ObjectID = "NU9-U8-WKW"; */
+"NU9-U8-WKW.normalTitle" = "ليس لديك حساب؟ انشاء حساب";
+
+/* Class = "UITextField"; placeholder = "الاسم بالكامل"; ObjectID = "Nvp-3l-fMC"; */
+"Nvp-3l-fMC.placeholder" = "الاسم بالكامل";
+
+/* Class = "UITextField"; placeholder = "تأكيد كلمة المرور"; ObjectID = "Tl0-Kj-tvU"; */
+"Tl0-Kj-tvU.placeholder" = "تأكيد كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "دخول"; ObjectID = "d3B-LL-kft"; */
+"d3B-LL-kft.normalTitle" = "دخول";
+
+/* Class = "UILabel"; text = "قم بانشاء حساب لتسهيل عملية الحجز مواعيد الصيانة"; ObjectID = "f0v-tM-Gts"; */
+"f0v-tM-Gts.text" = "قم بانشاء حساب لتسهيل عملية الحجز مواعيد الصيانة";
+
+/* Class = "UITextField"; placeholder = "كلمة المرور"; ObjectID = "kXx-vJ-CJ3"; */
+"kXx-vJ-CJ3.placeholder" = "كلمة المرور";
+
+/* Class = "UILabel"; text = "ينبغي عليك التسجيل أولاً لاستكمال طلبك"; ObjectID = "ogP-IN-ERF"; */
+"ogP-IN-ERF.text" = "ينبغي عليك التسجيل أولاً لاستكمال طلبك";
+
+/* Class = "UILabel"; text = "انشاء حساب"; ObjectID = "pRE-fs-j5m"; */
+"pRE-fs-j5m.text" = "انشاء حساب";
+
+/* Class = "UIButton"; normalTitle = "انشاء حساب"; ObjectID = "q1n-ek-VvO"; */
+"q1n-ek-VvO.normalTitle" = "انشاء حساب";
+
+/* Class = "UILabel"; text = "سيارتك في عنايتنا"; ObjectID = "qIT-j4-gdo"; */
+"qIT-j4-gdo.text" = "سيارتك في عنايتنا";
+
+/* Class = "UILabel"; text = "تسجيل دخول"; ObjectID = "qZb-EO-spi"; */
+"qZb-EO-spi.text" = "تسجيل دخول";
+
+/* Class = "UIButton"; normalTitle = "لديك حساب؟  تسجيل دخول"; ObjectID = "wou-pl-eZU"; */
+"wou-pl-eZU.normalTitle" = "لديك حساب؟  تسجيل دخول";
+
+/* Class = "UITextField"; placeholder = "رقم الهاتف"; ObjectID = "ylc-9P-7fY"; */
+"ylc-9P-7fY.placeholder" = "رقم الهاتف";
